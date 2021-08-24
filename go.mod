@@ -1,4 +1,4 @@
-module github.com/jonfriesen/go-billy-afero
+module github.com/stephenafamo/go-billy-afero
 
 go 1.12
 
